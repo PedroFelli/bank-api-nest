@@ -1,0 +1,4 @@
+file -> 
+  pg_hba.conf
+add line
+  host  all  all 0.0.0.0/0 md5
